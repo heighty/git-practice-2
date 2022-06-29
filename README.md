@@ -1,1 +1,5 @@
-Thid the practice for week 6
+#This my pratice for week6 review 
+#Bash sript is great 
+
+
+Thid the practice for week 
